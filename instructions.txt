@@ -1,0 +1,10 @@
+Objective:
+The winner is the first player to get rid of all his cards.
+
+Draw a card that is one value higher or lower than the one of the given cards in the middle. 
+The validity of a turn is only based on the value. Suit does not matter. An Ace can be placed on a 7, and vice versa. 
+If there are no valid turn possible, press 'Space' to draw more cards from the deck.
+
+Example: An 8 can be placed on a 9 or a 7.
+
+Click Window to Play.

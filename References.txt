@@ -1,0 +1,9 @@
+REFERENCES
+
+- I looked up a formal description of the rules using https://www.bicyclecards.com/how-to-play/spit/ to display in my game
+
+- I used the class setups from lab 16 
+
+- All of the TA's were helping me find reasons why images were undrawing from the window, data structures, and time management 
+
+-I used affinity Photo to create most of the graphics within the game.
